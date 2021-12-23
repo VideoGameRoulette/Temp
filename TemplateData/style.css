@@ -17,5 +17,5 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
-.controls {width: 449px; height: 315px; position: absolute; bottom: 1rem; left: 1rem; background-image: url('controls.png');}
+.controls {width: 449px; height: 315px; position: absolute; bottom: 1rem; left: 1rem; background-image: url('Controls.png');}
 body{background: grey;}
