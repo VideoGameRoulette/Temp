@@ -1,2 +1,2 @@
-# GameTemplate
-2D Platformer / Metroidvania Engine
+# Template
+2D Platformer / Metroidvania Engine for Unity
